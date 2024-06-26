@@ -49,7 +49,7 @@
 
 ### 5.1. 인덱스 화면
 
-<a href="https:///raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/01.main.png">
+<a href="https:///raw.githubusercontent.com/hn922003/Updown/master/screenshots/01.main.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/01.main.png" width="400px" alt="인덱스">
 </a>
 
@@ -68,27 +68,27 @@
 
 ### 5.3. 유효성검사 화면
 
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/05.invaild1.png">
-	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/05.invaild1.png" width="400px" alt="최대값">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/05.invalid1.png">
+	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/05.invalid1.png" width="400px" alt="최대값">
 </a>
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/06.invaild2.png">
-	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/06.invaild2.png" width="400px" alt="최소값">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/06.invalid2.png">
+	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/06.invalid2.png" width="400px" alt="최소값">
 </a>
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/07.invaild3.png">
-	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/07.invaild3.png" width="400px" alt="정수">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/07.invalid3.png">
+	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/07.invalid3.png" width="400px" alt="정수">
 </a>
 
 ---
 
 ### 5.4. 중복숫자 / 결과범위밖 숫자 제출방지
 
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/08.outofrange1.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/08.outofrange1.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/08.outofrange1.png" width="400px" alt="작은수라고">
 </a>
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/09.outofrange2.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/09.outofrange2.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/09.outofrange2.png" width="400px" alt="큰수라고">
 </a>
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/04.same.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/04.same.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/04.same.png" width="400px" alt="중복값">
 </a>
 
@@ -98,20 +98,20 @@
 
 #### 5.5.1. 경고창
 
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/10.warning1.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/10.warning1.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/10.warning1.png" width="400px" alt="업경고">
 </a>
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/11.warning2.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/11.warning2.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/11.warning2.png" width="400px" alt="다운경고">
 </a>
 
 
 #### 5.5.2. 승패창
 
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/12.win.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/12.win.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/12.win.png" width="400px" alt="승리">
 </a>
-<a href="https://raw.githubusercontent.com/hn922003/Updown/blob/master/screenshots/13.defeat.png">
+<a href="https://raw.githubusercontent.com/hn922003/Updown/master/screenshots/13.defeat.png">
 	<img src="https://github.com/hn922003/Updown/blob/master/screenshots/13.defeat.png" width="400px" alt="패배">
 </a>
 
